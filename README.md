@@ -37,6 +37,10 @@
   ## Testing
     NA   
 
+  ## Video
+  [Untitled_ Jun 7, 2023 5_54 PM.webm](https://github.com/abrand93/SQL-Employee-Tracker/assets/125417439/a453e84b-342a-4ab6-bd29-e7df71cfdeb8)
+
+
   ## questions 
   * GitHub Profile: [GitHub Link](https://github.com/abrand93)
   *  If you have any questions please contact me at: abrandstrom93@gmail.com
